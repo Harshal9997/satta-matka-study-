@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshal9997.github.io/satta-matka-study-/sitemap.xml
